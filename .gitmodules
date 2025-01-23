@@ -1,3 +1,6 @@
 [submodule "chrono-docs"]
 	path = chrono-docs
 	url = https://github.com/Lolmerkat/chrono-docs.git
+[submodule "chrono-core"]
+	path = chrono-core
+	url = https://github.com/Lolmerkat/chrono-core.git
