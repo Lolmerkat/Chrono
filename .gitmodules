@@ -6,3 +6,7 @@
 	path = chrono-core
 	url = https://github.com/Lolmerkat/chrono-core.git
     branch = main
+[submodule "chrono-cli"]
+	path = chrono-cli
+	url = https://github.com/Lolmerkat/chrono-cli
+    branch = main
