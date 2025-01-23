@@ -1,0 +1,3 @@
+[submodule "chrono-docs"]
+	path = chrono-docs
+	url = https://github.com/Lolmerkat/chrono-docs.git
