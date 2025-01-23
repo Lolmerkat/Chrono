@@ -1,6 +1,8 @@
 [submodule "chrono-docs"]
 	path = chrono-docs
 	url = https://github.com/Lolmerkat/chrono-docs.git
+    branch = main
 [submodule "chrono-core"]
 	path = chrono-core
 	url = https://github.com/Lolmerkat/chrono-core.git
+    branch = main
