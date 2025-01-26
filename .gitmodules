@@ -16,3 +16,6 @@
 [submodule "chrono-web"]
 	path = chrono-web
 	url = https://github.com/Lolmerkat/chrono-web
+[submodule "chrono-tui"]
+	path = chrono-tui
+	url = https://github.com/Lolmerkat/chrono-tui
