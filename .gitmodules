@@ -10,3 +10,6 @@
 	path = chrono-cli
 	url = https://github.com/Lolmerkat/chrono-cli
     branch = main
+[submodule "chrono-desktop"]
+	path = chrono-desktop
+	url = https://github.com/Lolmerkat/chrono-desktop
