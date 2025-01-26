@@ -20,7 +20,10 @@ and a Terminal User Interface (`tui`) in mind.
 
 - [chrono-core](https://github.com/Lolmerkat/chrono-core): Main backend, written in Kotlin.
 - [chrono-cli](https://github.com/Lolmerkat/chrono-cli): CLI implementation, containing command control only.
+- [chrono-desktop](https://github.com/Lolmerkat/chrono-desktop): Desktop native application.
 - [chrono-docs](https://github.com/Lolmerkat/chrono-docs): Documentation including concepts and plans for Chrono. (Yes, this really is just an obsidian vault)
+- [chrono-tui](https://github.com/Lolmerkat/chrono-tui): TUI implementation containing a user interface for the terminal.
+- [chrono-web](https://github.com/Lolmerkat/chrono-web): Web implementation as an alternative to the native app.
 
 ## Contribution
 
