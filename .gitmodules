@@ -13,3 +13,6 @@
 [submodule "chrono-desktop"]
 	path = chrono-desktop
 	url = https://github.com/Lolmerkat/chrono-desktop
+[submodule "chrono-web"]
+	path = chrono-web
+	url = https://github.com/Lolmerkat/chrono-web
